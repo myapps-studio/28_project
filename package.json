@@ -1,0 +1,17 @@
+{
+  "name": "25_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.4",
+    "webpack": "^4.34.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack --env development",
+    "build": "webpack --env production"
+  },
+  "author": "",
+  "license": "ISC"
+}
